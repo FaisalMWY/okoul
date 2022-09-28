@@ -1,12 +1,18 @@
-# quizu_app
+# About QuizU
+---
+QuizU was made available thanks to Okouls API and their challenge.
 
-A new Flutter project.
+## App Goals
+---
+The main goal for the challenge is to test the challenger's capabilities
+\n, but my personal goal is to create a clean app an a good looking one.
 
-## Getting Started
+## What's Next?
+---
+To fully complete the app's functionality and have a cleaner code.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+## How to test the app?
+By using the demo.apk in the main file
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
